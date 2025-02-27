@@ -11,7 +11,7 @@
 
 يمكنك مشاهدة التصميم عبر الرابط التالي:
 
-[🔗 رابط التصميم](https://www.figma.com/proto/s9xKOrY19q7hOu5NTU90NV/%D8%B1%D9%88%D8%A7%D8%A1-Rewaa?page-id=0%3A1&node-id=2-124&viewport=233%2C183%2C0.04&t=41djoc3YiZvKUthj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A124)
+[🔗 رابط التصميم](https://www.figma.com/proto/s9xKOrY19q7hOu5NTU90NV/%D8%B1%D9%88%D8%A7%D8%A1-Rewaa?page-id=0%3A1&node-id=4-1142&viewport=233%2C183%2C0.04&t=41djoc3YiZvKUthj-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=2%3A124)
 
                       
 
